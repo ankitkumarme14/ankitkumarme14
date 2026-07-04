@@ -39,8 +39,8 @@ I'm a passionate **Java Developer** with experience in designing, developing, an
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/ankitkumarme14
-* LinkedIn: https://linkedin.com/in/ankitkumarjava
+* **GitHub:** https://github.com/ankitkumarme14
+* **LinkedIn:** https://linkedin.com/in/ankitkumarjava
 
 ---
 
