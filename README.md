@@ -1,3 +1,5 @@
+
+
 # Hi there 👋, I'm Ankit Kumar
 
 ## 🚀 About Me
@@ -42,4 +44,4 @@ I'm a passionate **Java Developer** with experience in designing, developing, an
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
