@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋, I'm Ankit Kumar
 
-<!--
-**ankitkumarme14/ankitkumarme14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate **Java Developer** with experience in designing, developing, and maintaining scalable backend applications. I enjoy building robust microservices and continuously learning modern cloud-native technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+* ☕ Java
+* 🌱 Spring Framework
+* 🍃 Spring Boot
+* 🗄️ Hibernate
+* 🐬 MySQL
+* 🐘 PostgreSQL
+* ☁️ AWS
+* 📨 Apache Kafka
+* 🐳 Docker
+* 🔧 Jenkins
+* 🌿 Git & GitHub
+* 🔗 REST APIs
+* 🧩 Microservices
+* 🧪 JUnit & Mockito
+* 🛠️ Maven
+
+## 🌱 Currently Learning
+
+* Kubernetes
+* System Design
+* Advanced AWS Services
+
+## 🎯 Areas of Interest
+
+* Backend Development
+* Cloud Computing
+* Distributed Systems
+* Event-Driven Architecture
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/ankitkumarme14
+* LinkedIn: https://linkedin.com/in/ankitkumarjava
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
